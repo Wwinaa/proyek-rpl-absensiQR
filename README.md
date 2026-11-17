@@ -16,7 +16,7 @@
 | **Dosen Pengampu** | **Yudhistira Arie Wijaya, M.Kom., CDS.** |
 | **Kelompok** | **Sunyaragi Nexus** |
 | **Tema Topik Kelompok** | **E-Learning & Smart Education AI** |
-| **Repositori GitHub** | [https://github.com/Wwinaa/proyek-rpl-absensi-digital](https://github.com/Wwinaa/proyek-rpl-absensi-digital) |
+| **Repositori GitHub** | [https://github.com/Wwinaa/proyek-rpl-absensiQR](https://github.com/Wwinaa/proyek-rpl-absensiQR) |
 | **Mata Kuliah** | Rekayasa Perangkat Lunak (RPL) |
 | **Prototipe UI/UX (Figma)** | [Tautan Desain Figma](https://www.figma.com/design/HJ3KQU3E6jYNRBvK1X99aU/Untitled?node-id=0-1) |
 | **Tahun Akademik** | 2025 / 2026 |
@@ -25,13 +25,10 @@
 
 ## 📺 Link Video Presentasi & Live Demo (YouTube)
 
-Tonton presentasi komprehensif, bedah arsitektur UML & SDD, serta live demo sistem:
+Tonton presentasi komprehensif, pembedahan arsitektur UML & SDD, serta demonstrasi langsung (live demo) sistem:
 
-- 🔗 **Link YouTube**: *(Akan segera diperbarui setelah proses perekaman & unggah video selesai)*  
-- ⏱️ **Total Durasi**: Maksimal 24 Menit  
-  - **Segmen 1: PRD & Latar Belakang** (3–5 Menit)  
-  - **Segmen 2: Pemodelan UML & UI/UX Figma** (5–7 Menit)  
-  - **Segmen 3: Live Demo Sistem & Fitur AI** (8–12 Menit)  
+- 🔗 **Tautan Langsung YouTube**: [https://youtu.be/d8n-Pi-SUn4?si=7W71KGDXO2uolbbd](https://youtu.be/d8n-Pi-SUn4?si=7W71KGDXO2uolbbd)
+- 🎬 **Video Final Demo**: Menyajikan Elevator Pitch, demonstrasi scan QR Code kamera secara langsung (*live*), verifikasi notifikasi Telegram bot `@HadirioBot`, transaksi atomik *dual-sync* presensi wali kelas, pengajuan dan persetujuan surat izin sakit mandiri, percakapan cerdas dengan Asisten AI Hadir.io (4 bahasa), serta validasi pengujian sistem.  
 
 ---
 
@@ -122,7 +119,7 @@ Pastikan komputer Anda sudah terinstal:
 Buka terminal (Git Bash, Command Prompt, atau PowerShell) di direktori `htdocs` XAMPP Anda:
 ```bash
 cd c:/xampp/htdocs
-git clone https://github.com/Wwinaa/proyek-rpl-absensi-digital.git absen
+git clone https://github.com/Wwinaa/proyek-rpl-absensiQR.git absen
 cd absen
 ```
 *(Atau ekstrak file zip proyek ke dalam folder `c:\xampp\htdocs\absen`)*
@@ -214,11 +211,12 @@ absen/
 
 ---
 
-## 📄 Dokumen Laporan Rekayasa Perangkat Lunak
-Laporan proyek akhir lengkap (PRD, Dokumen SDD, dan Laporan Pengujian Sistem) tersedia dalam format:
-- 📄 `Laporan_Proyek_Akhir_RPL_Sistem_Presensi_SMK_NU_Wargabinangun.pdf`
-- 📝 `Laporan_Proyek_Akhir_RPL_Sistem_Presensi_SMK_NU_Wargabinangun.docx`
-- 🎬 `Naskah_Video_Presentasi_RPL_Winarti.docx`
+## 📄 Dokumen Laporan Rekayasa Perangkat Lunak & Deliverables
+Laporan proyek akhir lengkap (PRD/SRS, Pemodelan UML, Desain UI/UX Figma, dan Laporan Pengujian/CI-CD) tersedia dalam format:
+- 📕 **Laporan Lengkap (PDF Tunggal)**: [Laporan_Proyek_Akhir_RPL_Sistem_Presensi_SMK_NU_Wargabinangun.pdf](https://github.com/Wwinaa/proyek-rpl-absensiQR/blob/main/Laporan_Proyek_Akhir_RPL_Sistem_Presensi_SMK_NU_Wargabinangun.pdf)
+- 📥 **Unduh Langsung Berkas PDF**: [Download PDF](https://raw.githubusercontent.com/Wwinaa/proyek-rpl-absensiQR/main/Laporan_Proyek_Akhir_RPL_Sistem_Presensi_SMK_NU_Wargabinangun.pdf)
+- 📝 **Dokumen Microsoft Word (DOCX)**: [Laporan_Proyek_Akhir_RPL_Sistem_Presensi_SMK_NU_Wargabinangun.docx](https://github.com/Wwinaa/proyek-rpl-absensiQR/blob/main/Laporan_Proyek_Akhir_RPL_Sistem_Presensi_SMK_NU_Wargabinangun.docx)
+- 🎬 **Naskah & Panduan Demo**: [`Naskah_Video_Presentasi_RPL_Winarti.docx`](https://github.com/Wwinaa/proyek-rpl-absensiQR/blob/main/Naskah_Video_Presentasi_RPL_Winarti.docx)
 
 ---
 

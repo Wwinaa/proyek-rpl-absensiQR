@@ -1085,10 +1085,10 @@ def build_full_report_document(docx_path, p=None):
     tbl_sub.alignment = WD_TABLE_ALIGNMENT.CENTER
     sub_data = [
         ("Nama Berkas Luaran Wajib", "Tautan Akses / Status Pengumpulan"),
-        ("1. Repositori GitHub Publik Pribadi", "https://github.com/Wwinaa/proyek-rpl-absensi-digital"),
+        ("1. Repositori GitHub Publik Pribadi", "https://github.com/Wwinaa/proyek-rpl-absensiQR"),
         ("2. Berkas README.md Repositori", "Memuat identitas, deskripsi AI, tautan video, dan petunjuk instalasi"),
-        ("3. Tautan Video Presentasi & Demo (YouTube)", "Segera dicantumkan pada README setelah proses rekaman video tuntas"),
-        ("4. Berkas Dokumen Lengkap (PDF Tunggal)", "Laporan_Proyek_Akhir_RPL_Sistem_Presensi_SMK_NU_Wargabinangun.pdf"),
+        ("3. Tautan Video Presentasi & Demo (YouTube)", "https://youtu.be/d8n-Pi-SUn4?si=7W71KGDXO2uolbbd"),
+        ("4. Berkas Dokumen Lengkap (PDF Tunggal)", "https://github.com/Wwinaa/proyek-rpl-absensiQR/blob/main/Laporan_Proyek_Akhir_RPL_Sistem_Presensi_SMK_NU_Wargabinangun.pdf"),
         ("5. Prototipe Interaktif Desain UI/UX Figma", "https://www.figma.com/design/HJ3KQU3E6jYNRBvK1X99aU/Untitled?node-id=0-1")
     ]
     for i, (k, v) in enumerate(sub_data):
